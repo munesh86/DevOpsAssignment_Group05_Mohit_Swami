@@ -24,7 +24,7 @@ The main objective of Week 1 was to establish the basic development environment 
 | 3 | Mudit kumar | Developer |
 | 4 | Mehul Bhimrajka | Developer |
 | 5 | Mohit Choudhary | Developer |
-| 6 | Member 6 | Developer |
+| 6 | Munesh Jain  | Developer |
 
 ## 3. Work Completed
 
