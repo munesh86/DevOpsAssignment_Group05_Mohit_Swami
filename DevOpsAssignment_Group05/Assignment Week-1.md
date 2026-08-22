@@ -1,7 +1,56 @@
                                         Weekly Report – Week 1: Build Tools
 
-During the first week of our DevOps project on Build Tools, our team of six members focused on setting up the basic development and collaboration environment. We started by creating individual GitHub accounts for all team members and then created a common GitHub repository for the project. All members were added as collaborators so that everyone could contribute to the project.
+# DevOps Project – Weekly Report
 
-We also planned and created the initial project file structure inside the repository. Different folders and files were created according to the requirements of our project to keep the code organized and maintainable. Each team member was assigned initial tasks and contributed by making changes to the repository. The team members practiced the basic Git and GitHub workflow, including making changes, committing updates, and pushing them to the shared repository.
+## Week 1: GitHub & Project Setup
 
-By the end of Week 1, we successfully established a common workspace and ensured that all team members could collaborate effectively. This initial setup provides a strong foundation for implementing the project and learning DevOps practices in the upcoming weeks.
+**Team Size:** 6 Members  
+**Topic:** Build Tools  
+**Week:** 1  
+**Date:** 20 August 2026
+
+---
+
+## 1. Objective
+
+The main objective of Week 1 was to establish the basic development environment and set up a collaborative GitHub repository for our team project.
+
+## 2. Team Members
+
+| S.No. | Name | Role |
+|------|------|------|
+| 1 | Mohit Swami | Developer |
+| 2 | Mausam Kumawat | Developer |
+| 3 | Mudit kumar | Developer |
+| 4 | Mehul Bhimrajka | Developer |
+| 5 | Mohit Choudhary | Developer |
+| 6 | Member 6 | Developer |
+
+## 3. Work Completed
+
+- Created GitHub accounts for all team members.
+- Created a common GitHub repository.
+- Added all six members as collaborators.
+- Created the initial project file and folder structure.
+- Created separate folders for different project components.
+- Each team member made changes to the repository.
+- Practiced committing and pushing changes to GitHub.
+- Verified that all members could access and contribute to the repository.
+
+## 4. Tools Used
+
+- GitHub
+- Git
+- Visual Studio Code
+
+## 5. Git/GitHub Activities
+
+The team practiced basic Git operations such as:
+
+```bash
+git clone
+git add
+git commit
+git push
+git pull
+git status
