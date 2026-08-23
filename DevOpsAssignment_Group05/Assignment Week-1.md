@@ -19,12 +19,12 @@ The main objective of Week 1 was to establish the basic development environment 
 
 | S.No. | Name | Role |
 |------|------|------|
-| 1 | Mohit Swami | Developer |
-| 2 | Mausam Kumawat | Developer |
-| 3 | Mudit kumar | Developer |
-| 4 | Mehul Bhimrajka | Developer |
-| 5 | Mohit Choudhary | Developer |
-| 6 | Munesh Jain  | Developer |
+| 1 | Mohit Swami | 
+| 2 | Mausam Kumawat | 
+| 3 | Mudit kumar | 
+| 4 | Mehul Bhimrajka |
+| 5 | Mohit Choudhary |
+| 6 | Munesh Jain  |
 
 ## 3. Work Completed
 
