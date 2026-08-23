@@ -17,8 +17,8 @@ The main objective of Week 1 was to establish the basic development environment 
 
 ## 2. Team Members
 
-| S.No. | Name | Role |
-|------|------|------|
+| S.No. | Name |
+|------|------|
 | 1 | Mohit Swami | 
 | 2 | Mausam Kumawat | 
 | 3 | Mudit kumar | 
