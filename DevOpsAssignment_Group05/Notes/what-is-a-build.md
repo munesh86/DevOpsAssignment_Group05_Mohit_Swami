@@ -115,6 +115,4 @@ This ensures that broken code is caught early, before it reaches production.
 
 A **build** is the bridge between source code written by developers and a working piece of software that can be tested, shared, or deployed. It typically involves fetching code, installing dependencies, compiling, testing, and packaging — often automated through CI/CD pipelines to ensure speed, consistency, and reliability across a development team.
 
----
 
-*Notes prepared for reference and documentation purposes — free to adapt and expand as needed.*
